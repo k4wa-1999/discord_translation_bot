@@ -1,1 +1,1 @@
-# discord_translation_bot
+#ディスコード翻訳ボット
