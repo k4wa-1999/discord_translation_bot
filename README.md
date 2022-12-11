@@ -35,7 +35,7 @@ pip install --upgrade googletrans
 
 <h2 id="setting">設定</h2>
 <p>discord_bot\config\bot.ini のbot_token にあなたのBOTのトークンを入れてください。</p>
-<p></p>
+<img alt="トークンセット" src="img/setting.png" />
 <p></p>
 
 <h2 id="usage">使用方法</h2>
