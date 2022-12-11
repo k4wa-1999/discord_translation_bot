@@ -1,10 +1,17 @@
 ディスコード翻訳ボット
 
 ## 目次
+- [環境](#environment)
 - [使用方法](#usage)
 - [コマンド実行](#com)
 - [翻訳方法](#translation)
-- [権限設定](#authority)
+
+
+<h2 id="environment">環境</h2>
+<p>windows10</p>
+<p>Python 3.9.5 </p>
+<p>discord.py 2.1.0</p>
+
 
 
 <h2 id="usage">使用方法</h2>
