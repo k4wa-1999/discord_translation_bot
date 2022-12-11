@@ -17,9 +17,15 @@
 <p>googletrans</p>
 
 <h3>パッケージインストール</h3>
-```python.exe -m pip install --upgrade pip```
-```pip install --upgrade discord```
-```pip install --upgrade googletrans```
+```
+python.exe -m pip install --upgrade pip
+```
+```
+pip install --upgrade discord
+```
+```
+pip install --upgrade googletrans
+```
 
 
 <h2 id="usage">使用方法</h2>
