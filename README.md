@@ -9,8 +9,11 @@
 - [翻訳方法](#translation)
 
 <h2 id="environment">環境</h2>
-- windows10
+
+- <p>windows10</p>
+
 - Python 3.9.5
+
 - discord.py 2.1.0
 
 <h2 id="library">使用ライブラリ</h2>
