@@ -10,3 +10,8 @@
 <img alt="チャンネル作成コマンド" src="img/createcommand1.png" />
 <p>追加したい言語のリアクションを押します。(追加したら最後にOKを押します。)</p>
 <img alt="チャンネル作成コマンド" src="img/createcommand2.png" />
+
+<p>OKを押した後チャンネルとロールが作成されます。</p>
+<img alt="チャンネル作成コマンド" src="img/translation1.png" />
+<img alt="チャンネル作成コマンド" src="img/authority2.png" />
+
