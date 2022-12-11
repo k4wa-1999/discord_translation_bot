@@ -1,3 +1,3 @@
 python.exe -m pip install --upgrade pip
 pip install --upgrade discord
-pip install --upgrade oogletrans
+pip install --upgrade googletrans
