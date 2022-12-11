@@ -47,7 +47,7 @@ pip install --upgrade googletrans
 <img alt="チャンネル作成コマンド" src="img/authority2.png" />
 
 <h2 id="translation">翻訳方法</h2>
-<p>任意のチャンネルで発言すると、それぞれの言語用チャットに翻訳されたメッセージが送信されます。</p>
+<p>任意のチャンネルで発言すると、それぞれの言語用チャットに翻訳されたメッセージが送信されます。</p>po
 
 - 日本語チャンネル
 
@@ -66,6 +66,7 @@ pip install --upgrade googletrans
 <h2 id="authority">権限設定</h2>
 <p>通知が多くなることを避けるために権限による閲覧制限をしています。</p>
 <p>(権限設定はチャンネル作成時にBOTが自動で行います。)</p>
+<p>対象のロールにすることで見える言語チャンネルを変えることができます。</p>
 <img alt="権限1" src="img/authority1.png" />
 <img alt="権限2" src="img/authority2.png" />
 
