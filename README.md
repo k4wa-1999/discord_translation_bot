@@ -4,7 +4,7 @@
 - [使用方法](#usage)
 - [コマンド実行](#com)
 - [翻訳方法](#translation)
-- 
+
 <h2 id="usage">使用方法</h2>
 
 <p id = "com">/ch_creation を実行するとチャンネル作成することができます。</p>
@@ -17,6 +17,7 @@
 <img alt="チャンネル作成コマンド" src="img/authority2.png" />
 
 <h2 id="translation">翻訳方法</h2>
+<p>任意のチャンネルで発言すると、それぞれの言語用チャットに翻訳されたメッセージが送信されます。</p>
 <img alt="翻訳jp" src="img/translation1.png" />
 <img alt="翻訳en" src="img/translation2.png" />
 <img alt="翻訳cn" src="img/translation3.png" />
