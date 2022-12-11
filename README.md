@@ -47,7 +47,7 @@ pip install --upgrade googletrans
 <img alt="チャンネル作成コマンド" src="img/authority2.png" />
 
 <h2 id="translation">翻訳方法</h2>
-<p>任意のチャンネルで発言すると、それぞれの言語用チャットに翻訳されたメッセージが送信されます。</p>po
+<p>任意のチャンネルで発言すると、それぞれの言語用チャットに翻訳されたメッセージが送信されます。</p>
 
 - 日本語チャンネル
 
