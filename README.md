@@ -10,7 +10,7 @@
 
 <h2 id="environment">環境</h2>
 
-- <p>windows10</p>
+- windows10
 
 - Python 3.9.5
 
