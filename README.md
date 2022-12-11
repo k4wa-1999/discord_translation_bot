@@ -61,6 +61,8 @@ pip install --upgrade googletrans
 
 <img alt="翻訳cn" src="img/translation3.png" />
 
+<p>(日本語・英語・中国語・韓国語・タイ語・インドネシア語)を用意しています</p>
+
 <h2 id="authority">権限設定</h2>
 <p>通知が多くなることを避けるために権限による閲覧制限をしています。</p>
 <p>(権限設定はチャンネル作成時にBOTが自動で行います。)</p>
