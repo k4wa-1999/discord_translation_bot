@@ -16,11 +16,11 @@
 <p>discrd.py</p>
 <p>googletrans</p>
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+<h3>パッケージインストール</h3>
+```python.exe -m pip install --upgrade pip```
+```pip install --upgrade discord```
+```pip install --upgrade googletrans```
+
 
 <h2 id="usage">使用方法</h2>
 <p id = "com">/ch_creation を実行するとチャンネル作成することができます。</p>
