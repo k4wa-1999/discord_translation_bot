@@ -5,6 +5,6 @@
 
 
 <h2 id="usage">使い方</h2>
-<h1>/ch_creation</h1>
+# /ch_creation
 <img alt="チャンネル作成コマンド" src="img/createcommand1.png" />
 
