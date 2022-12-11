@@ -4,7 +4,7 @@
 - [使用方法](#usage)
 - [コマンド実行](#com)
 - [翻訳方法](#translation)
-- [権限](#authority)
+- [権限設定](#authority)
 
 
 <h2 id="usage">使用方法</h2>
@@ -24,5 +24,7 @@
 
 <h2 id="authority">権限設定</h2>
 <p>通知が多くなることを避けるために権限による閲覧制限をしています。</p>
+<img alt="権限1" src="img/authority1.png" />
+<img alt="権限2" src="img/authority2.png" />
 
 
