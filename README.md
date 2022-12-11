@@ -3,6 +3,7 @@
 ## 目次
 - [環境](#environment)
 - [使用ライブラリ](#library)
+- [設定](#setting)
 - [使用方法](#usage)
 - [コマンド実行](#com)
 - [翻訳方法](#translation)
@@ -32,6 +33,10 @@ pip install --upgrade discord
 pip install --upgrade googletrans
 ```
 
+<h2 id="setting">設定</h2>
+<p>discord_bot\config\bot.ini のbot_token にあなたのBOTのトークンを入れてください。</p>
+<p></p>
+<p></p>
 
 <h2 id="usage">使用方法</h2>
 <p id = "com">/ch_creation を実行するとチャンネル作成することができます。</p>
