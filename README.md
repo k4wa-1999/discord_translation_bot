@@ -25,7 +25,7 @@ python.exe -m pip install --upgrade pip
 
 ↑↑↑　しなくても大丈夫です。 ↑↑↑</p>
 
-```python
+```p
 pip install --upgrade discord
 ```
 
