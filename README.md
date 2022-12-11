@@ -1,2 +1,2 @@
 #ディスコード翻訳ボット
-![画像の説明](img/createcommand1.png "hero")
+![チャンネル作成コマンド](img/createcommand1.png "createcommand1")
