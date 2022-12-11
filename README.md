@@ -10,11 +10,11 @@
 
 <h2 id="environment">環境</h2>
 
-- windows10
+<p> windows10 </p>
 
-- Python 3.9.5
+<p>Python 3.9.5 </p>
 
-- discord.py 2.1.0
+<p> discord.py 2.1.0 </p>
 
 <h2 id="library">使用ライブラリ</h2>
 <p>discrd.py</p>
