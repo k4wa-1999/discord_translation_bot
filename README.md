@@ -54,4 +54,3 @@ pip install --upgrade googletrans
 <img alt="権限1" src="img/authority1.png" />
 <img alt="権限2" src="img/authority2.png" />
 
-
