@@ -25,7 +25,7 @@ python.exe -m pip install --upgrade pip
 
 ↑↑↑　しなくても大丈夫です。 ↑↑↑</p>
 
-```py
+```python
 pip install --upgrade discord
 ```
 
@@ -48,6 +48,8 @@ pip install --upgrade googletrans
 
 <h2 id="translation">翻訳方法</h2>
 <p>任意のチャンネルで発言すると、それぞれの言語用チャットに翻訳されたメッセージが送信されます。</p>
+
+- 日本語チャンネル
 
 <img alt="翻訳jp" src="img/translation1.png" />
 <img alt="翻訳en" src="img/translation2.png" />
