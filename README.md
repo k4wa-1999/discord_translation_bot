@@ -17,11 +17,12 @@
 <p>googletrans</p>
 
 <h3>パッケージインストール</h3>
-<p>python.exe -m pip install --upgrade pip　はしなくても大丈夫です！！</p>
 
 ```
 python.exe -m pip install --upgrade pip
 ```
+
+<p>python.exe -m pip install --upgrade pip　はしなくても大丈夫です！！</p>
 
 ```
 pip install --upgrade discord
