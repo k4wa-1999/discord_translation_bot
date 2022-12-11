@@ -1,4 +1,6 @@
+
 <title>ディスコード翻訳ボット</title>
+
 ## 目次
 - [環境](#environment)
 - [使用方法](#usage)
