@@ -1,5 +1,6 @@
 <h1>ディスコード翻訳ボット</h1>
-
+[ボット招待](https://discord.com/api/oauth2/authorize?client_id=1050799173013868555&permissions=8&scope=bot)
+<p>(このBOTには管理者権限が付与されます。)</p>
 ## 目次
 - [環境](#environment)
 - [使用ライブラリ](#library)
