@@ -2,17 +2,17 @@
 
 ## 目次
 - [環境](#environment)
+- [使用ライブラリ](#library)
 - [使用方法](#usage)
 - [コマンド実行](#com)
 - [翻訳方法](#translation)
-- [使用ライブラリ](#library)
 
 <h2 id="environment">環境</h2>
 <p>windows10</p>
 <p>Python 3.9.5 </p>
 <p>discord.py 2.1.0</p>
 
-<h2 id="environment">使用ライブラリ</h2>
+<h2 id="library">使用ライブラリ</h2>
 <p>discrd.py</p>
 <p>googletrans</p>
 
