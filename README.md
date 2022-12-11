@@ -42,6 +42,8 @@ pip install --upgrade googletrans
 
 [ボット招待](https://discord.com/api/oauth2/authorize?client_id=1050799173013868555&permissions=8&scope=bot)
 
+< a  href =https://discord.com/api/oauth2/authorize?client_id=1050799173013868555&permissions=8&scope=bot target =" _blank " rel =" noopener noreferrer " >ボット招待</ a >
+
 <p>(このBOTには管理者権限が付与されます。)</p>
 
 <h2 id="setting">設定</h2>
