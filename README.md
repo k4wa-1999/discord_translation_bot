@@ -1,16 +1,16 @@
 <h1>ディスコード翻訳ボット</h1>
 
-<h2 id="invitation">BOT招待URL</h2>
+<h2 id="invitation">ボット招待URL</h2>
 
 [ボット招待](https://discord.com/api/oauth2/authorize?client_id=1050799173013868555&permissions=8&scope=bot)
 
 <p>(このBOTには管理者権限が付与されます。)</p>
 ## 目次
 
-- [BOT招待URL](#invitation)
 - [環境](#environment)
 - [使用ライブラリ](#library)
-- [設定](#setting)
+- [BOT招待URL](#invitation)
+- [ボット設定](#setting)
 - [使用方法](#usage)
 - [コマンド実行](#com)
 - [翻訳方法](#translation)
