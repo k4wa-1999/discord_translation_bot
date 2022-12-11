@@ -13,8 +13,8 @@
 <p>discord.py 2.1.0</p>
 
 <h2 id="environment">使用ライブラリ</h2>
-<p>discrd.py</p>
-<p>googletrans</p>
+- <p>discrd.py</p>
+- <p>googletrans</p>
 
 <h3>パッケージインストール</h3>
 
