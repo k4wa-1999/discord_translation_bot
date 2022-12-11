@@ -52,7 +52,13 @@ pip install --upgrade googletrans
 - 日本語チャンネル
 
 <img alt="翻訳jp" src="img/translation1.png" />
+
+- 英語チャンネル
+
 <img alt="翻訳en" src="img/translation2.png" />
+
+- 中国語チャンネル
+
 <img alt="翻訳cn" src="img/translation3.png" />
 
 <h2 id="authority">権限設定</h2>
