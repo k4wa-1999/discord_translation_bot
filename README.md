@@ -24,6 +24,7 @@
 
 <h2 id="authority">権限設定</h2>
 <p>通知が多くなることを避けるために権限による閲覧制限をしています。</p>
+<p>権限は</p>
 <img alt="権限1" src="img/authority1.png" />
 <img alt="権限2" src="img/authority2.png" />
 
