@@ -7,7 +7,7 @@
 <p>(このBOTには管理者権限が付与されます。)</p>
 ## 目次
 
-- [環境](#invitation)
+- [BOT招待URL](#invitation)
 - [環境](#environment)
 - [使用ライブラリ](#library)
 - [設定](#setting)
