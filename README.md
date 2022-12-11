@@ -1,10 +1,5 @@
 <h1>ディスコード翻訳ボット</h1>
 
-<h2 id="invitation">ボット招待URL</h2>
-
-[ボット招待](https://discord.com/api/oauth2/authorize?client_id=1050799173013868555&permissions=8&scope=bot)
-
-<p>(このBOTには管理者権限が付与されます。)</p>
 ## 目次
 
 - [環境](#environment)
@@ -42,6 +37,12 @@ pip install --upgrade discord
 ```python
 pip install --upgrade googletrans
 ```
+
+<h2 id="invitation">ボット招待URL</h2>
+
+[ボット招待](https://discord.com/api/oauth2/authorize?client_id=1050799173013868555&permissions=8&scope=bot)
+
+<p>(このBOTには管理者権限が付与されます。)</p>
 
 <h2 id="setting">設定</h2>
 <p>discord_bot\config\bot.ini の bot_token にあなたのBOTのトークンを入れてください。</p>
