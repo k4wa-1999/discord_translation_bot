@@ -79,7 +79,7 @@ pip install --upgrade googletrans
 <p>(権限設定はチャンネル作成時にBOTが自動で行います。)</p>
 <img alt="権限1" src="img/authority1.png" />
 <img alt="権限2" src="img/authority2.png" />
-<p>対象のロールにすることで見える言語チャンネルを変えることができます。</p>
+<p>対象のロールを付与することで見える言語チャンネルを変えることができます。</p>
 
 
 
