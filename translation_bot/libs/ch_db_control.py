@@ -3,12 +3,12 @@ import sqlite3
 #bot.ini ファイル読み込み
 import configparser
 config = configparser.ConfigParser()
-config.read("../config/bot.ini",encoding="utf-8")
+config.read("config/bot.ini",encoding="utf-8")
 db_sql = config["db"]["db_configuration"]
 #DBコントロール
 def sql_control(db_name,sql,commit):
     sql = f''' {sql}'''
-    con = sqlite3.connect(f"../data/{db_name}.db")
+    con = sqlite3.connect(f"data/{db_name}.db")
     cur = con.cursor()
     cur.execute(sql)
     if commit == True:

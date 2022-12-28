@@ -10,7 +10,7 @@ from libs.translate_msg_send import tr_send
 #bot.ini ファイル読み込み
 import configparser
 config = configparser.ConfigParser()
-config.read("../config/bot.ini",encoding="utf-8")
+config.read("config/bot.ini",encoding="utf-8")
 
 #botにスラッシュコマンドを追加
 class MyBot(commands.Bot):
@@ -32,8 +32,8 @@ role_db_column = [config["db_column_role"][column_name] for column_name in confi
 #DBファイルの存在確認(無い場合は作成されます。)
 def dbfile_search():
     import glob
-    ch_db_file_search = glob.glob(f"../data/{db_name}.db")
-    role_db_file_search = glob.glob(f"../data/{role_db_name}.db")
+    ch_db_file_search = glob.glob(f"data/{db_name}.db")
+    role_db_file_search = glob.glob(f"data/{role_db_name}.db")
     if not ch_db_file_search:
         create(db_name)
         print("チャンネル用DBファイルが作成されました。")

@@ -5,7 +5,7 @@ import discord
 
 import configparser
 config = configparser.ConfigParser()
-config.read("../config/bot.ini",encoding="utf-8")
+config.read("config/bot.ini",encoding="utf-8")
 
 emoji_data = [config["emoji_data"][emoji] for emoji in config["emoji_data"]]
 db_name = config["db"]["name"]

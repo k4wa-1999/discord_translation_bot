@@ -3,7 +3,7 @@ from discord import Embed
 #bot.ini ファイル読み込み
 import configparser
 config = configparser.ConfigParser()
-config.read("../config/bot.ini",encoding="utf-8")
+config.read("config/bot.ini",encoding="utf-8")
 
 #対象の言語リスト , リアクション用絵文字リスト
 lang_list = [config["embed_lang_list"][embed_info] for embed_info in config["embed_lang_list"]]
